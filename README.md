@@ -1,2 +1,2 @@
 # snake-game-easy
-Simply realize the snake game。C++， vs2017
+Simply realize the snake game。C++ and vs2017
